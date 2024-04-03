@@ -24,8 +24,8 @@
       <svelte:component this={$user.menu} {user} bind:content />
     {/if}
     <Login bind:hash {user} />
-    <Header />
     <main id="main">
+    <Header />
       <svelte:component
         this={layout}
         {...content.fields}
