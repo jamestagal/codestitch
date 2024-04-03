@@ -1,1 +1,0 @@
-export let env={local:!1,baseurl:"/plenti-codestitch/",entrypointHTML:"global/html.svelte",entrypointJS:"YHFmEKsZeA",cms:{repo:"",redirectUrl:"",appId:"",branch:""}}
