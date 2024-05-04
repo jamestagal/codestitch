@@ -7,5 +7,11 @@
 	"baseurl": "/plenti-codestitch/",
 	"local": {
 		"port": 3000
+	},
+	"cms": {
+		"repo": "",
+		"redirect_url": ".",
+		"app_id": ".",
+		"branch": "main"
 	}
 }
